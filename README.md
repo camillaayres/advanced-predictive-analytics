@@ -1,9 +1,5 @@
 # Advanced Predictive Analytics: Shrinkage Estimation for Portfolio Construction and Insurance Claim Severity
 
-**MSc Quantitative Finance — SMM069 Advanced Predictive Analytics**
-Bayes Business School, City St George's, University of London
-Submitted: July 2026 | Grade: pending
-
 Group project by Camilla Ayres, Ramprashanth Elangovan, Mahad Khan, and Raghav Iyengar.
 
 ---
